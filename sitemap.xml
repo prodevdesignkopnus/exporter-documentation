@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        <url>
+            <loc>/welcome-QeapEJ3m</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/foundations/design-tokens-uvXwYJY8</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/foundations/typography-ElFZWnOn</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/components/component-overview-eDpeXAYm</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/components/component-detail-tkFq3NRT</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/components/button/element-s6pFuLvl</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/components/button/penjelasan-C1h5Owg9</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+   
+</urlset>
